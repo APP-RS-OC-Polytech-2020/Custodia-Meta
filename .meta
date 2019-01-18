@@ -1,5 +1,5 @@
 {
   "projects": {
-    "WebCam": "git@github.com:APP-RS-OC-Polytech-2020/JavaCamServer.git"
+    "WebCam": "https://github.com/APP-RS-OC-Polytech-2020/JavaCamServer.git"
   }
 }
