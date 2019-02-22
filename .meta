@@ -1,6 +1,9 @@
 {
   "projects": {
     "WebCam": "https://github.com/APP-RS-OC-Polytech-2020/JavaCamServer.git",
-    "Custodia-JavaServ": "https://github.com/APP-RS-OC-Polytech-2020/Custodia.git"
+    "Custodia-JavaServ": "https://github.com/APP-RS-OC-Polytech-2020/JavaRepeatServer.git",
+    "Custodia-Sensors": "https://github.com/APP-RS-OC-Polytech-2020/custodia-sensors.git",
+    "Custodia-Web": "https://github.com/APP-RS-OC-Polytech-2020/custodia-web.git",
+    "Custodi-Rpi": "https://github.com/APP-RS-OC-Polytech-2020/custodia-rpi.git"
   }
 }
