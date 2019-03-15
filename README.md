@@ -24,7 +24,7 @@ Open the [meta file](.meta) and do a `git clone` of each url under `"projects"`.
 ### 1.1 Pre-requisites
 As this project is still under developpement, some part aren't standalone, at all. Basically, most of the project needs [JavaRepeatServer](https://github.com/APP-RS-OC-Polytech-2020/JavaRepeatServer) to work properly. The rest is more or less optional, although you'll definetly need [Custodia-web](https://github.com/APP-RS-OC-Polytech-2020/custodia-web) if you want any kind of interface.
 
-#### JavaRepeatServer and Custodia-rpi
+#### JavaRepeatServer, Webcam and Custodia-rpi
 You'll want to make sure you have something that can compile and run Java apps. We used [Eclipse IDE](https://www.eclipse.org/ide/), and you may find some project files for this ide in the repos. You'll need it for the [Custodia-rpi](https://github.com/APP-RS-OC-Polytech-2020/custodia-rpi), [JavaRepeatServer](https://github.com/APP-RS-OC-Polytech-2020/JavaRepeatServer), and [Webcam](https://github.com/APP-RS-OC-Polytech-2020/JavaCamServer.git) projects.
 
 #### Custodia-web
