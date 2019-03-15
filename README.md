@@ -51,11 +51,11 @@ Move the project files to the root of the web server. Run using `index.php`. If 
 > :information_source: This part has the only human-facing interface.
 
 #### 1.2.3 WebCam
-Import the project into you IDE or compile the classes under /src/ or [grab one of the releases](https://github.com/APP-RS-OC-Polytech-2020/JavaCamServer/releases). Run using the jar (and read the help !) or using `main.java` (for full console support) or using `WebCamAPICameraStream.java` for more simple support.
+Import the project into you IDE or compile the classes under /src/ or [grab one of the releases](https://github.com/APP-RS-OC-Polytech-2020/JavaCamServer/releases). Run using the jar (and read the help !) or using `main.java` (for full console support) or using `WebCamAPICameraStream.java` for simplier support.
 
 > :information_source: You'll need a supported webcam for that. The code is pretty generic and should work with most USB webcam on windows and linux.
 
-> :warning: Some IPs are hardcoded in. You'll want to edit them. They're in `WebCamAPICameraStream.java`
+> :warning: Some IPs are hardcoded in if you run without console support. You'll want to edit them. They're in `WebCamAPICameraStream.java`
 
 #### 1.2.4 Custodia-rpi
 Import the project into your IDE or compile the classes. Make sure you have the dependencies for robotino-api as well as the java wrapper for it. And a robotino robot. Run using `Main.java`.
