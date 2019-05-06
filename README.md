@@ -16,15 +16,16 @@ It is meant to be used in conjunction with [meta], a tool for checking out and k
 # Installing this project
 
 ## 1. Grab projects
-### 1.1 Install Meta
+### 1.1 The Meta Way
+#### 1.1 Install Meta
 
 Go on [meta's repo](https://github.com/mateodelnorte/meta) and follow the instruction there. Basically, install nodeJs, install npm and run `npm i -g meta`
 
-### 1.2 Grab projects using Meta
+#### 1.2 Grab projects using Meta
 
 Launch your favorite console with node and meta installed, go to the folder where you want the project and run `meta git clone https://github.com/APP-RS-OC-Polytech-2020/Custodia-Meta.git`. Follow the prompts and Enjoy !
 
-### 1.1 (alt) Checkout each project manually.
+### 1.1 (alt) The manual way
 
 Open the [meta file](.meta) and do a `git clone` of each url under `"projects"`. You should get about the same result as doing it with meta.
 
